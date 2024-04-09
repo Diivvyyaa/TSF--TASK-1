@@ -1,4 +1,4 @@
-# TSF-TASK-1
+# TSF TASK1
 Objective : Prediction of scores obtained by student based on number of hours dedicated for studies. 
 Data Source : http://bit.ly/w-data
 IDE used is Jupyter Notebook and language used is Python
